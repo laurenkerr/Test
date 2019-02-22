@@ -58,7 +58,7 @@ function preload() {
   imgOBcloud = loadImage('assets/background/cloudopening.svg');
   
 //Audio
-  soundFormats('mp3', 'ogg', 'wav');
+  soundFormats('mp3', 'ogg');
   music = loadSound('assets/audio/Snack_Time.mp3');
   seedSound = loadSound('assets/audio/seed.mp3');
   audRain = loadSound('assets/audio/rain.mp3');

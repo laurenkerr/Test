@@ -136,7 +136,7 @@ push();
 
 //Pot
   push();
-  image(imgPot, potX, height * 0.91, imgPot.width *0.3, imgPot.height *0.3);
+  image(imgPot, potX, height * 0.91, imgPot.width *0.2, imgPot.height *0.2);
   if (potX >= width * 0.5) {
     potX = potX - 5;
   }

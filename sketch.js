@@ -193,7 +193,7 @@ function mouseClicked() {
           dragon.isBerryClicked = !dragon.isBerryClicked;
         }
       text.feed = false;
-      setTimeout(berry.playMunch, 2000);
+      setTimeout(berry.playMunch, 2500);
     } 
   
   if (berry.isDead) {

@@ -27,7 +27,7 @@ function preload() {
   imgSky = loadImage('assets/background/Sky.png');
   imgHills = loadImage('assets/Hills.png');
   imgSun = loadImage('assets/Sun.png');
-  imgPot = loadImage('assets/background/pot.svg');
+  imgPot = loadImage('assets/background/pot.png');
   txt_water = loadImage('assets/water.png');
   txt_feed = loadImage('assets/feed.png');
   
@@ -55,7 +55,7 @@ function preload() {
   imgBcloud = loadImage('assets/gray outline of big cloud.png');
   imgBTcloud = loadImage('assets/top of big cloud.png');
   imgBBcloud = loadImage('assets/bottom of big cloud.png');
-  imgOBcloud = loadImage('assets/background/cloudopening.svg');
+  imgOBcloud = loadImage('assets/background/cloudopening.png');
   
 //Audio
   soundFormats('mp3', 'ogg');
